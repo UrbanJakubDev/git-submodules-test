@@ -1,0 +1,4 @@
+[submodule "git-submodule-1"]
+	path = git-submodule-1
+	url = https://github.com/UrbanJakubDev/git-submodule-1.git
+	branch = master
